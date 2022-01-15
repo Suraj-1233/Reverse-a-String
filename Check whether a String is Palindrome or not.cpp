@@ -18,7 +18,8 @@ int l=0,h=s.size()-1;
                return 0;
            }
        }       
-   cout<<"True  ";
+   cout<<"  True  ";
+
 
 
 }
