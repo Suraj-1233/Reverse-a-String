@@ -1,0 +1,1 @@
+{"name":"Local: Reverse a String","url":"c:\\Users\\Suraj\\Desktop\\plasement\\string\\Reverse a String.cpp","tests":[{"id":1642214488592,"input":"suraj","output":""},{"id":1642214502630,"input":"sura","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Suraj\\Desktop\\plasement\\string\\Reverse a String.cpp","group":"local","local":true}
